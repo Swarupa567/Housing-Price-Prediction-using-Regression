@@ -20,14 +20,22 @@ Median House Value is to be predicted in this problem.
 I have done the exploratory data analysis and done following manipulations on data.
 
 Creating new features
+
 Removing outliers
+
 Transforming skewed features
+
 Checking for multicoliniearity
+
 ## 2) Training machine learning algorithms:
 Here, I have trained various machine learning algorithms like
 
 Linear Regression
+
 Ridge Regression
+
 Support Vector Regression
+
 Gradient Boosting Regression
+
 Stacking of various models
